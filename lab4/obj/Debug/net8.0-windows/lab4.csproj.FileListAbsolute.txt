@@ -1,0 +1,32 @@
+D:\ЮЛЯ 28.03.2020 г\Универ\5 семестр\визуальное программирование\lab4\obj\Debug\net8.0-windows\lab4.Form7.resources
+D:\ЮЛЯ 28.03.2020 г\Универ\5 семестр\визуальное программирование\lab4\obj\Debug\net8.0-windows\lab4.csproj.GenerateResource.cache
+D:\ЮЛЯ 28.03.2020 г\Универ\5 семестр\визуальное программирование\lab4\obj\Debug\net8.0-windows\lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЮЛЯ 28.03.2020 г\Универ\5 семестр\визуальное программирование\lab4\obj\Debug\net8.0-windows\lab4.AssemblyInfoInputs.cache
+D:\ЮЛЯ 28.03.2020 г\Универ\5 семестр\визуальное программирование\lab4\obj\Debug\net8.0-windows\lab4.AssemblyInfo.cs
+D:\ЮЛЯ 28.03.2020 г\Универ\5 семестр\визуальное программирование\lab4\obj\Debug\net8.0-windows\lab4.csproj.CoreCompileInputs.cache
+D:\ЮЛЯ 28.03.2020 г\Универ\5 семестр\визуальное программирование\lab4\bin\Debug\net8.0-windows\lab4.exe
+D:\ЮЛЯ 28.03.2020 г\Универ\5 семестр\визуальное программирование\lab4\bin\Debug\net8.0-windows\lab4.deps.json
+D:\ЮЛЯ 28.03.2020 г\Универ\5 семестр\визуальное программирование\lab4\bin\Debug\net8.0-windows\lab4.runtimeconfig.json
+D:\ЮЛЯ 28.03.2020 г\Универ\5 семестр\визуальное программирование\lab4\bin\Debug\net8.0-windows\lab4.dll
+D:\ЮЛЯ 28.03.2020 г\Универ\5 семестр\визуальное программирование\lab4\bin\Debug\net8.0-windows\lab4.pdb
+D:\ЮЛЯ 28.03.2020 г\Универ\5 семестр\визуальное программирование\lab4\obj\Debug\net8.0-windows\lab4.dll
+D:\ЮЛЯ 28.03.2020 г\Универ\5 семестр\визуальное программирование\lab4\obj\Debug\net8.0-windows\refint\lab4.dll
+D:\ЮЛЯ 28.03.2020 г\Универ\5 семестр\визуальное программирование\lab4\obj\Debug\net8.0-windows\lab4.pdb
+D:\ЮЛЯ 28.03.2020 г\Универ\5 семестр\визуальное программирование\lab4\obj\Debug\net8.0-windows\lab4.genruntimeconfig.cache
+D:\ЮЛЯ 28.03.2020 г\Универ\5 семестр\визуальное программирование\lab4\obj\Debug\net8.0-windows\ref\lab4.dll
+C:\Users\chern\OneDrive\Документы\GitHub\CSLabs\lab4\bin\Debug\net8.0-windows\lab4.exe
+C:\Users\chern\OneDrive\Документы\GitHub\CSLabs\lab4\bin\Debug\net8.0-windows\lab4.deps.json
+C:\Users\chern\OneDrive\Документы\GitHub\CSLabs\lab4\bin\Debug\net8.0-windows\lab4.runtimeconfig.json
+C:\Users\chern\OneDrive\Документы\GitHub\CSLabs\lab4\bin\Debug\net8.0-windows\lab4.dll
+C:\Users\chern\OneDrive\Документы\GitHub\CSLabs\lab4\bin\Debug\net8.0-windows\lab4.pdb
+C:\Users\chern\OneDrive\Документы\GitHub\CSLabs\lab4\obj\Debug\net8.0-windows\lab4.Form7.resources
+C:\Users\chern\OneDrive\Документы\GitHub\CSLabs\lab4\obj\Debug\net8.0-windows\lab4.csproj.GenerateResource.cache
+C:\Users\chern\OneDrive\Документы\GitHub\CSLabs\lab4\obj\Debug\net8.0-windows\lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chern\OneDrive\Документы\GitHub\CSLabs\lab4\obj\Debug\net8.0-windows\lab4.AssemblyInfoInputs.cache
+C:\Users\chern\OneDrive\Документы\GitHub\CSLabs\lab4\obj\Debug\net8.0-windows\lab4.AssemblyInfo.cs
+C:\Users\chern\OneDrive\Документы\GitHub\CSLabs\lab4\obj\Debug\net8.0-windows\lab4.csproj.CoreCompileInputs.cache
+C:\Users\chern\OneDrive\Документы\GitHub\CSLabs\lab4\obj\Debug\net8.0-windows\lab4.dll
+C:\Users\chern\OneDrive\Документы\GitHub\CSLabs\lab4\obj\Debug\net8.0-windows\refint\lab4.dll
+C:\Users\chern\OneDrive\Документы\GitHub\CSLabs\lab4\obj\Debug\net8.0-windows\lab4.pdb
+C:\Users\chern\OneDrive\Документы\GitHub\CSLabs\lab4\obj\Debug\net8.0-windows\lab4.genruntimeconfig.cache
+C:\Users\chern\OneDrive\Документы\GitHub\CSLabs\lab4\obj\Debug\net8.0-windows\ref\lab4.dll
